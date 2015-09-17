@@ -1,7 +1,7 @@
 {
    "job1": {
       "source": "/src",
-      "dest": "/dest"
+      "dest": "/dest",
+      "tag": "name"
    }
 }
-
