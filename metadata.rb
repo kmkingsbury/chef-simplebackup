@@ -1,0 +1,7 @@
+name 'simplebackup'
+maintainer 'Kevin Kingsbury'
+maintainer_email 'kkingsbury@gmail.com'
+license 'all_rights'
+description 'Installs/Configures a cronjob to run a simplebackup script'
+long_description 'Installs/Configures  a cronjob to run a simplebackup script'
+version '0.1.0'
